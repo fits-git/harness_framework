@@ -7,7 +7,8 @@
       "name": "project-setup",
       "status": "completed",
       "started_at": "2026-06-27T21:54:11+0900",
-      "summary": "Next.js 15 + React 19 + TS(strict) + Tailwind v3 + vitest 셋업: package.json/tsconfig(@/* alias)/tailwind.config.ts/postcss/vitest.config.ts/.eslintrc.json, src/app(layout·page·globals.css) 골격, .env.example(YOUTUBE_API_KEY=). npm build/lint 통과."
+      "summary": "Next.js 15 + React 19 + TS(strict) + Tailwind v3 + vitest 셋업: package.json/tsconfig(@/* alias)/tailwind.config.ts/postcss/vitest.config.ts/.eslintrc.json, src/app(layout·page·globals.css) 골격, .env.example(YOUTUBE_API_KEY=). npm build/lint 통과.",
+      "completed_at": "2026-06-27T21:57:30+0900"
     },
     {
       "step": 1,
