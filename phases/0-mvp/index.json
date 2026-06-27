@@ -32,7 +32,7 @@
       "status": "completed",
       "started_at": "2026-06-27T22:01:32+0900",
       "summary": "/api/recommend GET 라우트 구현 (서비스 위임, 에러 핸들링)",
-      "completed_at": "2026-06-27T22:03:00+0900"
+      "completed_at": "2026-06-27T22:03:06+0900"
     },
     {
       "step": 4,
