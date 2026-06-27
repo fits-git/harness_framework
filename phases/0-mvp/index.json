@@ -24,7 +24,7 @@
       "status": "completed",
       "started_at": "2026-06-27T21:58:44+0900",
       "summary": "fetchChallengeVideos/mapAndRankVideos 구현 및 테스트 통과. src/services/youtube.ts: server-only 격리, search.list→videos.list 2단계 호출, viewCount Number 변환·내림차순 정렬·상위 N 절단, 썸네일 high→medium→default fallback. @/types 재사용. vitest 5케이스 통과(정렬/절단/숫자변환/fallback/매핑), node 환경용 server-only alias 추가.",
-      "completed_at": "2026-06-27T22:01:00+0900"
+      "completed_at": "2026-06-27T22:01:32+0900"
     },
     {
       "step": 3,
