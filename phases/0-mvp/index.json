@@ -13,7 +13,10 @@
     {
       "step": 1,
       "name": "core-types",
-      "status": "pending"
+      "status": "completed",
+      "started_at": "2026-06-27T21:57:30+0900",
+      "summary": "src/types/index.ts: 도메인 타입 ChallengeVideo(viewCount:number)·RecommendParams·RecommendResponse 인터페이스와 기본값 상수 DEFAULT_KEYWORD/DEFAULT_DAYS_WINDOW(30)/DEFAULT_MAX_RESULTS(12) export. npm build 통과.",
+      "completed_at": "2026-06-27T22:00:00+0900"
     },
     {
       "step": 2,
